@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb  8 15:08:11 2023
-
-@author: s20553
-"""
-
 from nltk import ngrams
 import string
 import re
